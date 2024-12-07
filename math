@@ -1,0 +1,5 @@
+import math  
+print(math.ceil(48.90))
+print(math.floor(48.90))
+print(math.factorial(8))
+print(math.sqrt(81))
